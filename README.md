@@ -1,6 +1,6 @@
 # Apply-Filters-to-your-image
 
-This project applies 5 different filters to any image viz. Black&White, Black&white smooth, sketch, warm and cartoon. 
+This project applies 5 different filters to any image viz. Black&White, Black&white smooth, sketch,color blurred and cartoon. 
 This project uses various Machine Learning libraries and OpenCV for image transformation. 
 
 Python has numerous libraries for real world application.One of them is OpenCV.OpenCV is a cross-platform library used for Computer Vision. It includes applications like video and image capturing and processing. It is majorly used in image transformation, object detection, face recognition, and many other amazing applications.
